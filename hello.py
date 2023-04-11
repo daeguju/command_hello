@@ -1,5 +1,7 @@
+$ cat hello.py
 // For command line fit tutorial
-// Local repository modification
+//First: GitHub modification
+//Second: Local repository modification
 
 print("HEllo world")
 print("Tell your world")
